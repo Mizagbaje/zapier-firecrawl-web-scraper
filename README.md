@@ -46,5 +46,5 @@ Future Improvements
 
 ### Zapier Workflow
 
-![Zapier Workflow](screenshots/workflow.png)
 
+![Zapier Workflow](Screenshot_2026-10-12-16-43-32-863_com.android.chrome.jpg)
