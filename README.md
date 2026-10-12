@@ -48,3 +48,8 @@ Future Improvements
 
 
 ![Zapier Workflow](Screenshot_2026-10-12-16-43-32-863_com.android.chrome.jpg)
+
+
+### 2. Firecrawl Test Result
+
+![Firecrawl Test Result](Screenshot_2026-10-12-16-43-51-985_com.android.chrome.jpg)
