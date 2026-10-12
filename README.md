@@ -40,3 +40,11 @@ Future Improvements
 - Send extracted information to Google Sheets.
 - Use AI to summarize scraped content.
 - Automate the collection of information from selected websites.
+
+
+## Project Evidence
+
+### Zapier Workflow
+
+![Zapier Workflow](screenshots/workflow.png)
+
